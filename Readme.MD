@@ -7,7 +7,7 @@ chmod +x manage.py
 ./manage.py loaddata data/fixtures/parcel.json
 ./manage.py runserver 127.0.0.1:8000
 
-Query for API:
-http://127.0.0.1:8000/api/
-http://127.0.0.1:8000/api/parcel/
+Query for API: <br>
+http://127.0.0.1:8000/api/ <br>
+http://127.0.0.1:8000/api/parcel/ <br>
 http://127.0.0.1:8000/api/parcellocker/
