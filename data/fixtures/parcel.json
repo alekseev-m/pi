@@ -1,0 +1,69 @@
+[
+  {
+    "model": "db.parcel",
+    "pk": 1,
+    "fields": {
+      "sender": "Mike, 10000, New York",
+      "receiver": "John, 10001, New York",
+      "status" : "created",
+      "size" : "1"
+    }
+  },
+  {
+    "model": "db.parcel",
+    "pk": 2,
+    "fields": {
+      "sender": "Mike, 10000, New York",
+      "receiver": "Jeremy, 10002, New York",
+      "status" : "created",
+      "size" : "2"
+    }
+  },
+  {
+    "model": "db.parcel",
+    "pk": 3,
+    "fields": {
+      "sender": "Mike, 10000, New York",
+      "receiver": "Jane, 10003, New York",
+      "status" : "created",
+      "size" : "3"
+    }
+  },
+  {
+    "model": "db.parcel",
+    "pk": 4,
+    "fields": {
+      "sender": "Mike, 10000, New York",
+      "receiver": "Nick, 10004, New York",
+      "status" : "created",
+      "size" : "4"
+    }
+  },
+  {
+    "model": "db.parcellocker",
+    "pk": 1,
+    "fields": {
+      "address": "10000, New York",
+      "status" : "free",
+      "size" : "1"
+    }
+  },
+  {
+    "model": "db.parcellocker",
+    "pk": 2,
+    "fields": {
+      "address": "9999, London",
+      "status" : "free",
+      "size" : "2"
+    }
+  },
+  {
+    "model": "db.parcellocker",
+    "pk": 3,
+    "fields": {
+      "address": "10001, New York",
+      "status" : "free",
+      "size" : "3"
+    }
+  }
+]
